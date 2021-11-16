@@ -3,7 +3,7 @@
 **I am Yaswanth S from Kannur, Kerala Fresher at Amrita  College Of Engineering (CSE 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00]|Installing Ubuntu|Completed
+[Task-00](https://github.com/yaswanth004/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
 [Task-01]|Staring amFOSS repositories|
 [Task-02]
 [Task-03]
