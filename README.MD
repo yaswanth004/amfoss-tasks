@@ -4,7 +4,7 @@
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/yaswanth004/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
-[Task-01]|Staring amFOSS repositories|
+[Task-01](https://github.com/yaswanth004/amfoss-tasks/tree/main/task-01)|Staring amFOSS repositories|Completed
 [Task-02]
 [Task-03]
 [Task-04]
